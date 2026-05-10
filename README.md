@@ -57,8 +57,8 @@ ContextLM uses a **Recursive Character Splitting** strategy:
    ```
 4. `npm run dev`
 
-##  Creator ⭐︎
+## ☆ Creator ☆
 
- Built by **Ankita Tripathi**
+ Ankita Tripathi
 ---
 
