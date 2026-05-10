@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: doc-buddy-backend
+    name: contextLM-backend
     env: node
     plan: free
     buildCommand: npm install && npm run build -w backend
