@@ -13,7 +13,7 @@ ContextLm is a full-stack RAG (Retrieval-Augmented Generation) application desig
 ##  The RAG Pipeline
 
 ### 1. Ingestion & Chunking
-DocBuddy uses a **Recursive Character Splitting** strategy:
+ContextLM uses a **Recursive Character Splitting** strategy:
 - **Chunk Size**: 2,000 characters
 - **Overlap**: 400 characters
 - **Strategy**: The splitter recursively tries to break text at double newlines, single newlines, and spaces. This ensures that paragraphs and sentences are kept together, providing the LLM with coherent context.
