@@ -1,6 +1,6 @@
 # ContextLM ☆
 
-DocBuddy is a full-stack RAG (Retrieval-Augmented Generation) application designed to mirror the Google NotebookLM experience. It allows users to upload documents and have grounded, citation-rich conversations with their data.
+ContextLm is a full-stack RAG (Retrieval-Augmented Generation) application designed to mirror the Google NotebookLM experience. It allows users to upload documents and have grounded, citation-rich conversations with their data.
 
 ##  Key Features
 - **Intelligent RAG Pipeline**: End-to-end document processing from ingestion to grounded answer generation.
