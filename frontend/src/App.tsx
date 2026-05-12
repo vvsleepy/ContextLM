@@ -50,6 +50,9 @@ function App() {
             <span className="text-xs text-neutral-500">
               Your AI document workspace
             </span>
+             <span className="text-[11px] text-pink-400 mt-0.5 font-medium tracking-wide">
+    created by Ankita Tripathi ۶ৎ
+  </span>
           </div>
         </div>
 
